@@ -21,8 +21,8 @@
 ### 📈 &nbsp;Stats do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahaule&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Estatísticas do Mahaule"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats-mauve.vercel.app/api?username=mahaule&show_icons=true&theme=radical&hide=issues&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-mauve.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6"/>
 </p>
 
 ---
