@@ -26,7 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas"/>
 </p>
 
-> ⚠️ *Se os cards acima não carregarem, pode ser por instabilidade no servidor. Acesse [meu GitHub direto por aqui](https://github.com/mahaule).*
+> ⚠️ *Se os cards acima não carregarem, pode ser por instabilidade no servidor.
 
 ---
 
