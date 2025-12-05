@@ -1,6 +1,7 @@
 ## Olá mundo! 👋 Eu sou o Renan
+
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC  
-💻 Desenvolvedor **Front-End** e análista de dados  
+💻 Desenvolvedor **Front-End** e analista de dados  
 📊 Explorando o mundo da **Data Science** com Python, Power BI e MySQL  
 🚀 Amante de tecnologia, café forte e código limpo
 
@@ -21,8 +22,8 @@
 ### 📈 &nbsp;Stats do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahaule&show_icons=true&theme=radical&hide=issues&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahaule&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Estatísticas do Mahaule"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas"/>
 </p>
 
 ---
