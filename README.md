@@ -19,7 +19,7 @@
 
 ---
 
-  <!-- >### 📈 &nbsp;Stats do GitHub
+  >### 📈 &nbsp;Stats do GitHub
 
  <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahaule&show_icons=true&theme=radical&count_private=true&hide=issues" alt="Estatísticas do Mahaule"/>
