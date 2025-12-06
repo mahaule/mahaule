@@ -30,7 +30,7 @@
 --- 
 
 
-### 🌐 &nbsp;Vamos conectar?
+### 🌐 &nbsp;Minhas redes sociais e Portifólio! 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rfreitasd3v/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-24292e?style=flat-square&logo=github&logoColor=white)](https://mahaule.github.io/Portf-lio-Renan-Freitas/index.html)
