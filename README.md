@@ -16,10 +16,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
+<!--
 ---
 
-  <!-- >### 📈 &nbsp;Stats do GitHub
+   >### 📈 &nbsp;Stats do GitHub
 
  <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahaule&show_icons=true&theme=radical&count_private=true&hide=issues" alt="Estatísticas do Mahaule"/>
