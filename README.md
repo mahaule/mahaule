@@ -39,6 +39,7 @@
 
 💬 _“"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming_
 
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/mahaule/mahaule/main/dist/snake.svg" />
 </p>
