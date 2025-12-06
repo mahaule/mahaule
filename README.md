@@ -29,8 +29,6 @@
 <img src="https://raw.githubusercontent.com/mahaule/mahaule/main/dist/snake.svg" />
 </p>
 
-> ⚠️ *Se os cards acima não carregarem, pode ser por instabilidade no servidor. 
-
 --- 
 
 
