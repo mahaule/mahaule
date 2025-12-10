@@ -16,19 +16,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-<!--
+
 ---
 
-   >### 📈 &nbsp;Stats do GitHub
+### 📈 &nbsp;Stats do GitHub
 
- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahaule&show_icons=true&theme=radical&count_private=true&hide=issues" alt="Estatísticas do Mahaule"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas"/>
-</p>-->
+<p align="center">
+<img height="180em" src="https://github-readme-stats-one-phi-0jx1748kdm.vercel.app/api?username=mahaule&show_icons=true&theme=radical&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-one-phi-0jx1748kdm.vercel.app/api/top-langs/?username=mahaule&layout=compact&theme=radical&langs_count=6"/>
+</p>
 
-
---- 
-
+---
 
 ### 🌐 &nbsp;Minhas redes sociais e Portifólio! 
 
@@ -37,7 +35,7 @@
 
 ---
 
-💬 _“"Sem dados, você é apenas mais uma pessoa com uma opinião." — W. Edwards Deming_
+💬 _“Sem dados, você é apenas mais uma pessoa com uma opinião.” — W. Edwards Deming_
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mahaule/mahaule/main/dist/snake.svg" />
